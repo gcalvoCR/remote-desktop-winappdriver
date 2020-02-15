@@ -1,10 +1,10 @@
-# 3 Test cases for Remote WinAppDriver
+# Automation of Windows apps. 3 Test cases using WinAppDriver
 
 In order to run the testcases you need the following prerequisites:
 
-* Windows 10
-* Visual Studio or any IDE that could run .NET Core
-* SDK installedc [click here to get it](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/).
+* Windows 10.
+* Visual Studio or any IDE that could run .NET Core.
+* SDK installed [click here to get it](https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/).
 * The WinAppDriver, [click here to get it](https://github.com/Microsoft/WinAppDriver/releases).
 * Check that you have the correct applicacion installed. Go to the search box and type **Remote Control**. There should be an application with that exact name, if not you could get it from the Microsoft Store. *(Don't confuse the target app with another one called "Remote Control Connection")*
 
