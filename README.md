@@ -19,10 +19,10 @@ In order to run the testcases you need the following prerequisites:
 ## 2. Start the server (WinAppDriver)
 
 - Open up a new CMD.
-- Navigate to the installation directory of the WinAppDriver.exe 
-    *Usually (C:\Program Files (x86)\Windows Application Driver)* 
+- Navigate to the installation directory of the WinAppDriver.exe,  
+    *usually (C:\Program Files (x86)\Windows Application Driver)* 
 - Type *WinAppDriver.exe* on the CMD.
-- Make sure the server starts, The CMD should say *Windows Application Driver listening for requests at: http://127.0.0.1:4723/*.
+- Make sure the server starts, The CMD should say **Windows Application Driver listening for requests at: http://127.0.0.1:4723/**.
 
 
 ## 3. Run the tests
@@ -33,7 +33,10 @@ In order to run the testcases you need the following prerequisites:
 
 ## Disclamer
 
-- The tests could be run from the command line but this is out of the scope of this repo.
+- The tests should be run from the command line (CMD), but this is out of the scope of this repo.
+- This repo doesn't take in count any management tool, in order to make it really useful, you should integrate it to a reporter tool.
+
+Have any questions? Feel free to reach out to me!
 
 
 ### by Gabriel Calvo Vargas
