@@ -22,7 +22,8 @@ In order to run the testcases you need the following prerequisites:
 - Navigate to the installation directory of the WinAppDriver.exe,  
     *usually (C:\Program Files (x86)\Windows Application Driver)* 
 - Type *WinAppDriver.exe* on the CMD.
-- Make sure the server starts, The CMD should say ` **Windows Application Driver listening for requests at: http://127.0.0.1:4723/**. `
+- Make sure the server starts, The CMD should say:
+     ` Windows Application Driver listening for requests at: http://127.0.0.1:4723/ `
 
 
 ## 3. Run the tests
